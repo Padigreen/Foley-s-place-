@@ -1,0 +1,28 @@
+{
+  "repo_name": "foleys-place",
+  "description": "A full-stack web app for inventory, accounting, and invoicing at Foley’s Place with multi-user roles, JWT authentication, inventory/invoice management, reporting, and print-ready branded invoices.",
+  "private": false,
+  "owner": "Padigreen",
+  "topics": [
+    "inventory",
+    "accounting",
+    "invoicing",
+    "react",
+    "express",
+    "mongodb",
+    "full-stack",
+    "jwt-auth",
+    "multi-user",
+    "dashboard",
+    "reporting"
+  ],
+  "homepage": "",
+  "has_issues": true,
+  "has_projects": true,
+  "has_wiki": true,
+  "has_downloads": true,
+  "is_template": false,
+  "default_branch": "main",
+  "auto_init": true,
+  "license_template": "mit"
+}
